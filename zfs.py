@@ -62,13 +62,6 @@ logo = """
 
 
 
-
-
-
-
-
-
-
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mZIHAN AHMED 
 \033[1;96mInstagram \033[1;93m: \033[1: IT’S ZfS
@@ -122,10 +115,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ?sub_confirmation=1 ')
+            os.system('xdg-open https://www.Facebook.com/xihan.ahmed.786 ')
     else:
         print "Wrong Username"
-        os.system('xdg-open  https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ?sub_confirmation=1 ')
+        os.system('xdg-open  https://www.Facebook.com/xihan.ahmed.786 ')
 
 def login():
 	os.system('clear')
